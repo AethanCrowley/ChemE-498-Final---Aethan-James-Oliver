@@ -1,0 +1,29 @@
+ENVI
+description = {
+  File Resize Result, x resize factor: 1.000000, y resize factor: 1.000000.
+  [Mon Jan 11 10:17:54 2021]}
+samples = 1163
+lines   = 1654
+bands   = 11
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+wavelength units = Unknown
+band names = {
+ Resize (Band 47:43948_set1_inv_mnf_30_bands), 
+ Resize (Band 89:43948_set1_inv_mnf_30_bands), 
+ Resize (Band 107:43948_set1_inv_mnf_30_bands), 
+ Resize (Band 130:43948_set1_inv_mnf_30_bands), 
+ Resize (Band 144:43948_set1_inv_mnf_30_bands), 
+ Resize (Band 167:43948_set1_inv_mnf_30_bands), 
+ Resize (Band 196:43948_set1_inv_mnf_30_bands), 
+ Resize (Band 511:43948_set1_inv_mnf_30_bands), 
+ Resize (Band 531:43948_set1_inv_mnf_30_bands), 
+ Resize (Band 562:43948_set1_inv_mnf_30_bands), 
+ Resize (Band 620:43948_set1_inv_mnf_30_bands)}
+wavelength = {
+ 1076.084717, 1238.076050, 1307.500854, 1396.210327, 1450.207397, 1538.916870,
+ 1650.767944, 2865.702393, 2942.841064, 3062.406006, 3286.108154}
